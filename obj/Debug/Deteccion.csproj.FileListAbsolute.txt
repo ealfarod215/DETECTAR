@@ -1,0 +1,7 @@
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\bin\Debug\Deteccion.exe.config
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\bin\Debug\Deteccion.exe
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\bin\Debug\Deteccion.pdb
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\obj\Debug\Deteccion.csprojAssemblyReference.cache
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\obj\Debug\Deteccion.csproj.CoreCompileInputs.cache
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\obj\Debug\Deteccion.exe
+E:\Users\Edison\Desktop\BSCH\Deteccion\Deteccion\obj\Debug\Deteccion.pdb
